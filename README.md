@@ -129,5 +129,3 @@ Converted rating:
 4.1
 3.8
 4.5
-```text
-
