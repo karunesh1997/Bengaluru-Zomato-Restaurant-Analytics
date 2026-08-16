@@ -1,5 +1,21 @@
+# Dataset
 Data/zomato.csv
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Python
 __pycache__/
 *.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
 .env
+
+# OS files
+.DS_Store
+Thumbs.db
