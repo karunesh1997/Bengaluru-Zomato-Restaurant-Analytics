@@ -107,3 +107,8 @@ Raw rating:
 4.1/5
 3.8/5
 4.5/5
+
+Converted rating:
+4.1
+3.8
+4.5
