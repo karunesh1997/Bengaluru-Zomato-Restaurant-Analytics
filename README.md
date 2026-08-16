@@ -83,6 +83,23 @@ The dataset contains restaurant-level information for restaurants listed on Zoma
 
 ---
 
+The original Zomato dataset is not included in this GitHub repository because
+the CSV file is larger than GitHub's standard 100 MB file-size limit.
+
+## Dataset Setup
+
+Download the Zomato dataset separately and place the CSV file in this folder
+with the following name:
+
+`zomato.csv`
+
+The expected project structure is:
+
+Data/
+└── zomato.csv
+
+
+
 ## 🧹 Data Cleaning
 
 The raw dataset required several preprocessing steps before analysis.
@@ -112,21 +129,5 @@ Converted rating:
 4.1
 3.8
 4.5
-
-# Dataset
-
-The original Zomato dataset is not included in this GitHub repository because
-the CSV file is larger than GitHub's standard 100 MB file-size limit.
-
-## Dataset Setup
-
-Download the Zomato dataset separately and place the CSV file in this folder
-with the following name:
-
-`zomato.csv`
-
-The expected project structure is:
-
 ```text
-Data/
-└── zomato.csv
+
